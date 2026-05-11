@@ -26,32 +26,26 @@ Full Stack Developer • Data Science Enthusiast • Problem Solver
 
 # 💫 About Me
 
-```javascript
-const karan = {
-  location: "India",
+<table>
+<tr>
+<td>
 
-  currentFocus: [
-    "Full Stack Development",
-    "Data Science",
-    "DevOps"
-  ],
+- 🚀 Full Stack Developer  
+- 📊 Data Science Enthusiast  
+- 💻 Building scalable web applications  
+- 🌱 Learning Backend Architecture & DevOps  
+- ⚡ Passionate about problem solving  
+- 🎯 Focused on real-world impactful projects  
 
-  technologies: {
-    frontend: ["React", "HTML", "CSS", "JavaScript"],
-    backend: ["Node.js", "Express.js", "C#", ".NET"],
-    database: ["MongoDB", "MySQL"],
-    languages: ["Python", "Java", "C#", "C++"]
-  },
+</td>
 
-  currentlyBuilding: "LuxeStays - Hotel Booking Website",
+<td>
 
-  goals2026: [
-    "Build scalable projects",
-    "Learn backend architecture",
-    "Improve system design skills"
-  ]
-};
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranCode27&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
