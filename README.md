@@ -61,11 +61,9 @@ https://github.com/KaranCode27/LuxeStays---HotelBookingWebsite
 
 # 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KaranCode27/KaranCode27/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 ---
 
 # 🌐 Connect With Me
