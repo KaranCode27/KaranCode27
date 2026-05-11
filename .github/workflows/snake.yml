@@ -1,29 +1,140 @@
-name: Generate Snake
+<h1 align="center">Hi 👋, I'm Karan Garmora</h1>
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+<h3 align="center">
+Data Scientist • Full Stack Developer • Problem Solver
+</h3>
 
-permissions:
-  contents: write
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Data+Science+Enthusiast;C%23+Developer;React+Developer;Always+Learning+New+Things&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000&size=28" />
+</p>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+---
 
-    steps:
-      - uses: actions/checkout@v3
+# 💫 About Me
 
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: KaranCode27
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+```js
+const karan = {
+    location: "India",
+    currentFocus: [
+        "Full Stack Development",
+        "Data Science",
+        "DevOps"
+    ],
+    
+    technologies: {
+        frontend: ["React", "HTML", "CSS", "JavaScript"],
+        backend: ["Node.js", "Express.js", "C#", ".NET"],
+        database: ["MongoDB", "MySQL"],
+        languages: ["Python", "Java", "C#", "C++"]
+    },
 
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    currentlyBuilding: "LuxeStays - Hotel Booking Website",
+
+    goals2026: [
+        "Build scalable projects",
+        "Learn system design",
+        "Master backend architecture"
+    ]
+};
+```
+
+---
+
+# 🚀 Featured Project
+
+## 🏨 LuxeStays — Hotel Booking Website
+
+✨ Full Stack Hotel Booking Platform  
+✨ Authentication & Session Management  
+✨ Booking System  
+✨ MongoDB Integration  
+✨ Responsive UI  
+
+🔗 Repository:
+
+[Click Here](https://github.com/KaranCode27/LuxeStays---HotelBookingWebsite)
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+### Backend & Database
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaranCode27&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranCode27&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranCode27&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KaranCode27/KaranCode27/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranCode27&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/KaranCode27">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+# 💡 Quote
+
+> “First, solve the problem. Then, write the code.”
+
+---
+
+<p align="center">
+✨ Building • Learning • Improving Every Day ✨
+</p>
