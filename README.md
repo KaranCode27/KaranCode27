@@ -1,16 +1,30 @@
 <h1 align="center">Hi 👋, I'm Karan Garmora</h1>
 
 <h3 align="center">
-Full Stack Developer | Data Science Enthusiast | Problem Solver
+Full Stack Developer • Data Science Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+Developer;C%23+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+Developer;C%23+Developer;Backend+Learner;Always+Building+Projects" />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/KaranCode27">
+<img src="https://img.shields.io/github/followers/KaranCode27?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/KaranCode27">
+<img src="https://img.shields.io/github/stars/KaranCode27?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=KaranCode27&style=for-the-badge&color=blue"/>
+
 </p>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
 ```javascript
 const karan = {
@@ -41,9 +55,9 @@ const karan = {
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
-### 🏨 LuxeStays — Hotel Booking Website
+## 🏨 LuxeStays — Hotel Booking Website
 
 - Full Stack Hotel Booking Platform
 - Authentication & Session Management
@@ -57,58 +71,87 @@ const karan = {
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Frontend
+---
+
+## Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-### Backend & Database
+---
+
+## Backend & Database
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ![ExpressJS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=KaranCode27&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranCode27&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=KaranCode27&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/KaranCode27/KaranCode27/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaranCode27&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -124,12 +167,14 @@ const karan = {
 
 ---
 
-## 💡 Quote
+# 💡 Quote
 
 > First, solve the problem. Then, write the code.
 
 ---
 
 <p align="center">
+
 ✨ Building • Learning • Improving Every Day ✨
+
 </p>
