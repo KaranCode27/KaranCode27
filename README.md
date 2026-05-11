@@ -26,22 +26,12 @@ Full Stack Developer • Data Science Enthusiast • Problem Solver
 
 # 💫 About Me
 
-<table>
-<tr>
-<td>
-
-- 🚀 Full Stack Developer  
-- 📊 Data Science Enthusiast  
-- 💻 Building scalable web applications  
-- 🌱 Learning Backend Architecture & DevOps  
-- ⚡ Passionate about problem solving  
-- 🎯 Focused on real-world impactful projects  
-
-</td>
-
-<td>
-</tr>
-</table>
+- 🚀 Full Stack Developer passionate about building real-world applications
+- 📊 Exploring Data Science, AI and scalable backend systems
+- 💻 Currently building **LuxeStays — Hotel Booking Website**
+- 🌱 Learning React, DevOps and Backend Architecture
+- ⚡ Interested in problem solving and system design
+- 🎯 Focused on creating impactful projects
 
 ---
 
@@ -100,12 +90,11 @@ Full Stack Developer • Data Science Enthusiast • Problem Solver
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KaranCode27&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KaranCode27&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranCode27&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranCode27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
-
 ---
 
 # 🔥 GitHub Streak
