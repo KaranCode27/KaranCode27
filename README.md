@@ -40,10 +40,6 @@ Full Stack Developer • Data Science Enthusiast • Problem Solver
 </td>
 
 <td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranCode27&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
 </tr>
 </table>
 
