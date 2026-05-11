@@ -1,62 +1,63 @@
 <h1 align="center">Hi 👋, I'm Karan Garmora</h1>
 
 <h3 align="center">
-Data Scientist • Full Stack Developer • Problem Solver
+Full Stack Developer | Data Science Enthusiast | Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Data+Science+Enthusiast;C%23+Developer;React+Developer;Always+Learning+New+Things&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000&size=28" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+Developer;C%23+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-```js
+```javascript
 const karan = {
-    location: "India",
-    currentFocus: [
-        "Full Stack Development",
-        "Data Science",
-        "DevOps"
-    ],
-    
-    technologies: {
-        frontend: ["React", "HTML", "CSS", "JavaScript"],
-        backend: ["Node.js", "Express.js", "C#", ".NET"],
-        database: ["MongoDB", "MySQL"],
-        languages: ["Python", "Java", "C#", "C++"]
-    },
+  location: "India",
 
-    currentlyBuilding: "LuxeStays - Hotel Booking Website",
+  currentFocus: [
+    "Full Stack Development",
+    "Data Science",
+    "DevOps"
+  ],
 
-    goals2026: [
-        "Build scalable projects",
-        "Learn system design",
-        "Master backend architecture"
-    ]
+  technologies: {
+    frontend: ["React", "HTML", "CSS", "JavaScript"],
+    backend: ["Node.js", "Express.js", "C#", ".NET"],
+    database: ["MongoDB", "MySQL"],
+    languages: ["Python", "Java", "C#", "C++"]
+  },
+
+  currentlyBuilding: "LuxeStays - Hotel Booking Website",
+
+  goals2026: [
+    "Build scalable projects",
+    "Learn backend architecture",
+    "Improve system design skills"
+  ]
 };
 ```
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
-## 🏨 LuxeStays — Hotel Booking Website
+### 🏨 LuxeStays — Hotel Booking Website
 
-✨ Full Stack Hotel Booking Platform  
-✨ Authentication & Session Management  
-✨ Booking System  
-✨ MongoDB Integration  
-✨ Responsive UI  
+- Full Stack Hotel Booking Platform
+- Authentication & Session Management
+- Booking System
+- MongoDB Integration
+- Responsive UI
 
 🔗 Repository:
 
-[Click Here](https://github.com/KaranCode27/LuxeStays---HotelBookingWebsite)
+[LuxeStays Repository](https://github.com/KaranCode27/LuxeStays---HotelBookingWebsite)
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -81,43 +82,36 @@ const karan = {
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaranCode27&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranCode27&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KaranCode27&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranCode27&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranCode27&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=KaranCode27&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KaranCode27/KaranCode27/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/KaranCode27/KaranCode27/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranCode27&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://github.com/KaranCode27">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -125,13 +119,14 @@ const karan = {
 <a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+
 </p>
 
 ---
 
-# 💡 Quote
+## 💡 Quote
 
-> “First, solve the problem. Then, write the code.”
+> First, solve the problem. Then, write the code.
 
 ---
 
