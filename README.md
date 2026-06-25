@@ -5,7 +5,7 @@ Aspiring Data Analyst • MERN Stack Developer • MCA'27
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;MERN+Stack+Developer;Power+BI+Enthusiast;Building+Data-Driven+Applications;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;MERN+Stack+Developer;Power+BI+Enthusiast;Building+Data-Driven+Applications;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
