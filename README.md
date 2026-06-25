@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karan Garmora</h1>
 
 <h3 align="center">
-Full Stack Developer • Data Science Enthusiast • Problem Solver
+Aspiring Data Analyst • MERN Stack Developer • MCA'27
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+Developer;C%23+Developer;Backend+Learner;Always+Building+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;MERN+Stack+Developer;Power+BI+Enthusiast;Building+Data-Driven+Applications;Always+Learning+🚀" />
 </p>
 
 <p align="center">
@@ -26,28 +26,45 @@ Full Stack Developer • Data Science Enthusiast • Problem Solver
 
 # 💫 About Me
 
-- 🚀 Full Stack Developer passionate about building real-world applications
-- 📊 Exploring Data Science, AI and scalable backend systems
-- 💻 Currently building **LuxeStays — Hotel Booking Website**
-- 🌱 Learning React, DevOps and Backend Architecture
-- ⚡ Interested in problem solving and system design
-- 🎯 Focused on creating impactful projects
+* 🎓 MCA Student (2025–2027) at Dharmsinh Desai University
+* 📊 Aspiring Data Analyst passionate about transforming data into meaningful insights
+* 💻 MERN Stack Developer focused on building scalable full-stack applications
+* 🏏 Creator of **IPL Analytics Platform**
+* 📈 Built **IPL 2025 Squad Investment Analytics Dashboard** using Power BI
+* 🌱 Currently exploring Machine Learning, Data Engineering & Backend Architecture
+* 🎯 Open to Software Development and Data Analytics opportunities
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
-## 🏨 LuxeStays — Hotel Booking Website
+## 🏏 IPL Analytics Platform *(Live Demo)*
 
-- Full Stack Hotel Booking Platform
-- Authentication & Session Management
-- Booking System
-- MongoDB Integration
-- Responsive UI
+A full-stack cricket analytics platform built using **React, Node.js, Express.js & MongoDB** providing player, team, venue and season insights with interactive dashboards.
 
-🔗 Repository:
+🌐 Live Website
 
-[LuxeStays Repository](https://github.com/KaranCode27/LuxeStays---HotelBookingWebsite)
+https://ipl-analytics-kg.vercel.app/
+
+---
+
+## 📊 IPL 2025 Squad Investment Analytics Dashboard *(Power BI)*
+
+Interactive Power BI dashboard analyzing IPL franchise investments, player pricing, retained players, team spending and business insights.
+
+🔗 Repository
+
+https://github.com/KaranCode27/IPL2025-Squad-Investment-Analytics-Dashboard
+
+---
+
+## 🏨 LuxeStays — Hotel Booking Platform
+
+Modern MERN Stack hotel booking platform with authentication, Razorpay integration, Cloudinary, booking management and responsive UI.
+
+🔗 Repository
+
+https://github.com/KaranCode27/LuxeStays
 
 ---
 
@@ -59,15 +76,17 @@ Full Stack Developer • Data Science Enthusiast • Problem Solver
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
@@ -89,12 +108,6 @@ Full Stack Developer • Data Science Enthusiast • Problem Solver
 
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-
 </p>
 
 ---
@@ -107,11 +120,9 @@ Full Stack Developer • Data Science Enthusiast • Problem Solver
 
 <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express"/>
 
-<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
 
 </p>
 
@@ -131,6 +142,22 @@ Full Stack Developer • Data Science Enthusiast • Problem Solver
 
 ---
 
+## Data Analytics
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+</p>
+
+---
+
 ## Tools & Platforms
 
 <p align="left">
@@ -141,9 +168,12 @@ Full Stack Developer • Data Science Enthusiast • Problem Solver
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
 
 </p>
+
 ---
 
 # 🔥 GitHub Streak
@@ -184,8 +214,8 @@ Full Stack Developer • Data Science Enthusiast • Problem Solver
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/karan-garmora-52a8b2255/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -194,12 +224,12 @@ Full Stack Developer • Data Science Enthusiast • Problem Solver
 
 # 💡 Quote
 
-> First, solve the problem. Then, write the code.
+> **"Data tells a story. Code brings it to life."**
 
 ---
 
 <p align="center">
 
-✨ Building • Learning • Improving Every Day ✨
+⭐ Building • Learning • Improving Every Day 🚀 ⭐
 
 </p>
